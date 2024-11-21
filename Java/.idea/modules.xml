@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Datatypes/Datatypes.iml" filepath="$PROJECT_DIR$/Datatypes/Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First/First.iml" filepath="$PROJECT_DIR$/First/First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variable/Variable.iml" filepath="$PROJECT_DIR$/Variable/Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/loops.iml" filepath="$PROJECT_DIR$/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDimensionalArray/multiDimensionalArray.iml" filepath="$PROJECT_DIR$/multiDimensionalArray/multiDimensionalArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch/switch.iml" filepath="$PROJECT_DIR$/switch/switch.iml" />
+    </modules>
+  </component>
+</project>
